@@ -1,0 +1,48 @@
+.container1{
+    border: 1px solid black;
+    margin:0 auto;
+    width: 75%;
+    align-items: center;
+}
+
+.flex-box-pick,.flex-box-container1{
+display: flex;
+border:1px solid black;
+padding: 10px;
+justify-content: space-around;
+flex-direction: row;
+flex-wrap: wrap;
+}
+.flex-box-container1 div{
+    padding :10px;
+    border:1px solid black;
+    align-items: center;
+    display: flex;
+}
+.container2{
+    border:1px solid black;
+width:75%;
+margin :0 auto;
+text-align: center;
+}
+.flex-box-container2{
+    display: flex;
+    border:1px solid blue;
+    flex-wrap: wrap;
+}
+img{
+    max-width: 30%;
+    height: auto;
+}
+
+.flex-box-container2 img{
+    padding: 10px;
+    box-shadow: 0px 10px 50px black;
+    justify-content: space-around;
+}
+.container3{
+    border:1px solid black;
+}
+.flex-box-rps img:hover{
+    box-shadow: 0 px 10px 50px rgba(red, green, blue);  
+}
