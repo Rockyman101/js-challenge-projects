@@ -17,7 +17,7 @@ this is a educational project that lets you to bomb any of ur friends email id
 ### [+] Getting Started
 ### installation
 ```sh
-git clone https://github.com/
+git clone https://github.com/Rockyman101/email-bombing.git
 ```
 
 ### installing dependencies
@@ -27,7 +27,8 @@ pip install colorama
 ```
 ### open the current directory in ur terminal
 ```sh 
-python boomb.py
+python3 email-bombing.py
+
 ```
 ### [+] Usage
  - `enter your legit email with password`
