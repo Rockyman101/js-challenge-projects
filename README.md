@@ -15,7 +15,7 @@
 this is a educational project that lets you to bomb any of ur friends email id
 
 ### [+] Getting Started
-installation
+### installation
 ```sh
 git clone https://github.com/
 ```
@@ -29,6 +29,12 @@ pip install colorama
 ```sh 
 python boomb.py
 ```
+### [+] Usage
+ - `enter your legit email with password`
+ - `enter the reciever mail`
+ - `enter the message `
+ - `enter the no of times`
+
 
 ### [+] Disclaimer 
 It only works through Gmail, it does not identify the user as a spammer in any way, it is only designed to send multiple messages at once. Using Gmail SMTP. We are not responsible for any abuse or damage caused by this program. Use your own risks!
