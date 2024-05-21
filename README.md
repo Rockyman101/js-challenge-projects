@@ -25,11 +25,11 @@ git clone https://github.com/Rockyman101/email-bombing.git
 pip install tqdm
 pip install colorama
 ```
-### open the current directory in ur terminal
+### open the current directory in your terminal
 ```sh 
 python3 email-bombing.py
-
 ```
+
 ### [+] Usage
  - `enter your legit email with password`
  - `enter the reciever mail`
