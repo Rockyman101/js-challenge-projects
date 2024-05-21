@@ -18,13 +18,14 @@ this is a educational project that lets you to bomb any of ur friends email id
 installation
 ```sh
 git clone https://github.com/
-``
+```
 
-installing dependencies
-```sh pip install tqdm
+### installing dependencies
+```sh
+pip install tqdm
 pip install colorama
-
-open the current directory in ur terminal
+```
+### open the current directory in ur terminal
 ```sh 
 python boomb.py
 ```
